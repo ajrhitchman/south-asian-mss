@@ -1,9 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000105" type="stub">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000103" type="stub">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>MS. Mill 45</title>
-                <title type="collection">Mill Collection</title>
                 <respStmt>
                     <resp when="2023-11">Stub record</resp>
                     <persName>Alex Hitchman</persName>
@@ -17,7 +16,6 @@
                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                 </publisher>
                 <idno type="msID">MS_Mill_45</idno>
-                <idno type="collection">Mill Collection</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc xml:lang="en" xml:id="MS_Mill_45">
@@ -25,6 +23,7 @@
                         <country>United Kingdom</country>
                         <settlement>Oxford</settlement>
                         <repository>Weston Library</repository>
+                        <collection>Mill Collection</collection>
                         <idno type="shelfmark">MS. Mill 45</idno>
                         <altIdentifier>
                             <idno type="CSM">vol. 1: 191</idno>
@@ -39,9 +38,9 @@
                             </recordHist>
                         </adminInfo>
                         <listBibl>
-                            <bibl/>
+                            <bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n33/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 24</citedRange></bibl></bibl>
                            
-                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n33/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 24</citedRange></bibl></listBibl>
+                        </listBibl>
                     </additional>
                 </msDesc>
             </sourceDesc>

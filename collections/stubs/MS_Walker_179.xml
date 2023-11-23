@@ -1,9 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001286" type="stub">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001086" type="stub">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>MS. Walker 179</title>
-                <title type="collection">Walker Collection</title>
                 <respStmt>
                     <resp when="2023-11">Stub record</resp>
                     <persName>Alex Hitchman</persName>
@@ -17,7 +16,6 @@
                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                 </publisher>
                 <idno type="msID">MS_Walker_179</idno>
-                <idno type="collection">Walker Collection</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc xml:lang="en" xml:id="MS_Walker_179">
@@ -25,6 +23,7 @@
                         <country>United Kingdom</country>
                         <settlement>Oxford</settlement>
                         <repository>Weston Library</repository>
+                        <collection>Walker Collection</collection>
                         <idno type="shelfmark">MS. Walker 179</idno>
                         <altIdentifier>
                             <idno type="CSM"/>

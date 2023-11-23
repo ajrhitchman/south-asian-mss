@@ -1,9 +1,8 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001023" type="stub">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001021" type="stub">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>MS. Wilson 92, 93</title>
-                <title type="collection">Wilson Collection</title>
                 <respStmt>
                     <resp when="2023-11">Stub record</resp>
                     <persName>Alex Hitchman</persName>
@@ -17,7 +16,6 @@
                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                 </publisher>
                 <idno type="msID">MS_Wilson_92_and_93</idno>
-                <idno type="collection">Wilson Collection</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc xml:lang="en" xml:id="MS_Wilson_92_and_93">
@@ -25,6 +23,7 @@
                         <country>United Kingdom</country>
                         <settlement>Oxford</settlement>
                         <repository>Weston Library</repository>
+                        <collection>Wilson Collection</collection>
                         <idno type="shelfmark">MS. Wilson 92, 93</idno>
                         <altIdentifier>
                             <idno type="CSM">vol. 2: 928</idno>
@@ -39,9 +38,9 @@
                             </recordHist>
                         </adminInfo>
                         <listBibl>
-                            <bibl/>
+                            <bibl><bibl><ref target="https://archive.org/details/CatalogiCodicumManuscriptorumBibliothSanskritP2/page/n65/mode/1up"> M. Winternitz &amp; A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library, vol. II, </title> (Oxford, 1905)</ref><citedRange unit="page"> pp. 34-35</citedRange></bibl></bibl>
                            
-                        <bibl><ref target="https://archive.org/details/CatalogiCodicumManuscriptorumBibliothSanskritP2/page/n65/mode/1up"> M. Winternitz &amp; A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library, vol. II, </title> (Oxford, 1905)</ref><citedRange unit="page"> pp. 34-35</citedRange></bibl></listBibl>
+                        </listBibl>
                     </additional>
                 </msDesc>
             </sourceDesc>
