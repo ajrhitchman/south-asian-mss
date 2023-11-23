@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000785" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 222-224</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_222-224</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_222-224">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 222-224</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 719-721</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Vivadabhangārņava, after A. D. 1826.</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>222=iii +268 +ix blank. In the original foliation 288, but there are no ff. 77-86, 180-189. 223=iii + 182+iii blank. In the original foliation 192, but there are no ff. 137–146. 224=i+244 +i blank. In the original foliation 76+175+ ii blank, but a blank leaf is inserted after f. 1 of the second part, and there are no ff. 72-81. Leaves arranged as in a European book.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n99/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 90</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001045" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Wilson 115, 113, 114, 112, 111, 116</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Wilson_115_and_113_and_114_and_112_and_111_and_116</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Wilson_115_and_113_and_114_and_112_and_111_and_116">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Wilson 115, 113, 114, 112, 111, 116</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 50-55</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Padma Puriņa, 18th cent. ?</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>115=ii +233 +ii blank. 113=ii +209+ii blank. 114=ii+114+ii blank. 112=ii + 158 + ii blank. The original foliation makes 260 ff., as ff. I, 31 are passed over. 111=ji +352+ii blank. The original foliation makes only 350 ff., as a mistake has been made after f. 90, and though ff. 91-139 have been corrected, ff. 138, &amp;c. represent ff. 140, &amp;c. 116=i+118 + ii blank.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n16/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 7</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

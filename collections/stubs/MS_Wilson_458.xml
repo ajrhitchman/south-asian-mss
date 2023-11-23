@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000937" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 458</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_458</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_458">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 458</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 2: 1370</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>with the
+Pañicāstikāyaprābhṛta,
+Commentary of Brahmadevají, 18th cent. ?</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>ii+110+ii blank. In the original there are 111 ff., but f. 55 is omitted, none of the text being lost.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/CatalogiCodicumManuscriptorumBibliothSanskritP2/page/n250/mode/1up"> M. Winternitz &amp; A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library, vol. II, </title> (Oxford, 1905)</ref><citedRange unit="page"> p. 219</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

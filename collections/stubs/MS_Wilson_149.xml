@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001307" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 149</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_149</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_149">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 149</idno>
+                        <altIdentifier>
+                            <idno type="CSM"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+
+                    <msItem><locus>MS. Wilson 149a</locus><note>Goyicandra on the Samkaiptasāra,
+A.D. 1827 and 18th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n60/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 51</citedRange></bibl></msItem><msItem><locus>MS. Wilson 149 b</locus><note>Júmaranandin's Rasavatī, 18th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n60/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 51</citedRange></bibl></msItem></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>ii+279+ii blank. The three parts in the original foliation have 134 (really 139, as the numbering 'is 1-7, 4-134, of which f. 65 is repeated) +78+(20+42) leaves.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n60/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 51</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n60/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 51</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

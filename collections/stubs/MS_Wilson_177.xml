@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001319" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 177</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_177</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_177">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 177</idno>
+                        <altIdentifier>
+                            <idno type="CSM"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+
+                    <msItem><locus>MS. Wilson 177a</locus><note>Commentary on Kusumāñjali, after A. D. 1810.</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 75</citedRange></bibl></msItem><msItem><locus>MS. Wilson 177b</locus><note>Fragment of Commentary on Atmatattvaviveka,
+after A. D. 1810.</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 75-76</citedRange></bibl></msItem><msItem><locus>MS. Wilson 177c</locus><note>Commentary on Bādarāyaṇasūtra (Book IV, chap. 4),
+19th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n85/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 76</citedRange></bibl></msItem><msItem><locus>MS. Wilson 177d</locus><note>Uttarapakşavāda (Anumānacintamaņi), A.D. 1770.</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 75</citedRange></bibl></msItem></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>i+44+i blank, The four parts have 31+3+7+3 leaves.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 75</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 75-76</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n85/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 76</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n84/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 75</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

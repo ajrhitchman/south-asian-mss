@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1000898" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 401</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_401</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_401">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 401</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 2: 1011</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>S'ankara's Commentaries on the Kena and Chandogya
+Upanişads, Viśveśvaratirtha's Commentary on
+Anandatirtha's Commentary on the Aitareya
+Āranyaka, 18th, 17th, 16th cent. ?</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>ii+191+ii blank. Each MS. in the original has its own foliation.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/CatalogiCodicumManuscriptorumBibliothSanskritP2/page/n108/mode/1up"> M. Winternitz &amp; A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library, vol. II, </title> (Oxford, 1905)</ref><citedRange unit="page"> p. 77</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

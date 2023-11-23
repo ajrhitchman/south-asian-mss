@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001049" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Wilson 179-181</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Wilson_179-181</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Wilson_179-181">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Wilson 179-181</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 593-595</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Anumānamaṇidīdhititippaṇī, A.D. 1781.</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>179 =ii+220 +ii blank. In the original foliation 57 (really 58, f. 47 being repeated) + 146 (really 139, as there are no ff. 105, 113, and ff. 24-35 are represented by only 7 new leaves) + 22 (really 23, as f.12 is repeated). 180=ii + 150+ii blank. In the original foliation 47 (really 49, as ff. 8, 20 are repeated) + 108 (really 100, as there are no ff. 90-99, and ff. 15, 54 are double), Also a loose leaf is bound in as f. 43 of the volume, 181=ii +242 + ii blank. In the original foliation 108 (really 110, as ff. 21, 59 are repeated) + 40+92.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n83/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 74-75</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

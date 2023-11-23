@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001312" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Wilson 163</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Wilson_163</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Wilson_163">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Wilson 163</idno>
+                        <altIdentifier>
+                            <idno type="CSM"/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+
+                    <msItem><locus>MS. Wilson 163a</locus><note>Vivādacandra, 19th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n99/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 90</citedRange></bibl></msItem><msItem><locus>MS. Wilson 163b</locus><note>Vivādacintamani, 19th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n90/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 81</citedRange></bibl></msItem><msItem><locus>Ms. Wilson 163c</locus><note>Fragment of Subodhini, after A. D. 1805.</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl></msItem><msItem><locus>MS. Wilson 163d</locus><note>Fragment of Mitākṣarā, 19th cent. ?</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl></msItem><msItem><locus>MS. Wilson 163 e</locus><note>Mitakṣarāyāḥ Siddhāntasamgraha, 19th cent. ?.</note><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl></msItem></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>ii+251+ii blank. In the original foliation the five parts have 80+86+49 (really 50, as f. 30 is repeated) +1+34 leaves.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n99/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 90</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n90/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 81</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl><bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 79</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_100058" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Mill 116, 117</title>
+                <title type="collection">Mill Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MS_Mill_116_and_117</idno>
+                <idno type="collection">Mill Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MS_Mill_116_and_117">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MS. Mill 116, 117</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 2: 953</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>S'atapatha Brāhmaṇa, A.D. 1839, 1595.</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>116=ii+291 +ii blank; 117=ii+228 +ii blank. In the original each volume has its own foliation. 116 has 100+59+49+82 (really 83, for f. 42 is repeated) leaves; 117 has 12+28+25+39+ 48 (really 51, for ff. 46, 47, 48 are repeated) + 29 (really 30, for f. 6 is repeated) +43 leaves.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/CatalogiCodicumManuscriptorumBibliothSanskritP2/page/n76/mode/1up"> M. Winternitz &amp; A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library, vol. II, </title> (Oxford, 1905)</ref><citedRange unit="page"> pp. 45-46</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

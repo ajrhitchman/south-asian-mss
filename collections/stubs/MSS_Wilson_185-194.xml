@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001051" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Wilson 185-194</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Wilson_185-194</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Wilson_185-194">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Wilson 185-194</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 342-351</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Mahābhāṣya, &amp;c., 18th cent. ?</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>185=ii +336 +ii blank. 186=ii+322+ ii blank. 187=ii +389 +ii blank. 188 =ii+275+ ii blank. 169 = ii +375 + ii blank. 190=ii + 347 + ii blank. 191=i+361+ ii blank. 182=ii +363+ ii blank. 193=ii+ 369 + ii blank. 184=ii+329+ ii blank. Originally most of the ähnikas were foliated separately, but there is often as well a continuous foliation, both being carelessly made.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n53/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 44-45</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

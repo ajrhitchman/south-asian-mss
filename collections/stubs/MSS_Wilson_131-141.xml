@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001029" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Wilson 131-141</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Wilson_131-141</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Wilson_131-141">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Wilson 131-141</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 1-13</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Mahābhārata, &amp;c., 18th cent. ?</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>131=iv + 294 + iv blank. 132= iv + 280+iv blank. In the original foliation 293-431 143. 133-iv +315+iv blank. Originally only 314, as ff. 249-251, which are supplied, correspond to ff. 249, 250 of the original. 134=iv+337 +iv blank. Originally foliated 315565 (491-501 being passed over) +98. 135 = iv + 339 + iv blank. The original had only 334 ff., as ff. 153-156 were inserted later, and f. 164 is repeated. 136 iv +318+iv blank. The original has various foliations, the best being 46+42 +90–318, the loss of 89 being compensated by the repetition of 270. 137-iv+271 +iv blank. The original foliation makes 272, but ff. 48, 49 form one leaf. 138=iv+242 +iv blank. In the original foliation 137+46+19+20. 139 =ii +311+iiblank. Originally foliated 1-139, 152—244, 1–79. After 139 are inserted 12 blank leaves. 140 iv +258 +iv blank. The original foliation makes 255, as ff. 53-55 are repeated. 141=iv +263 +iv blank. The original foliation is 256-421, as it repeats 300-399 and passes over 308, 361, 362. 142=ii +349+ii blank. The original foliation makes 347, as ff. 165 and 225 are repeated. 143 ii +235 +ii blank. Originally foliated 9+ 44+115 (really 116, as 68 is repeated) +11+33+5+7.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n10/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 1-2</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001057" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Wilson 346, 347</title>
+                <title type="collection">Wilson Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Wilson_346_and_347</idno>
+                <idno type="collection">Wilson Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Wilson_346_and_347">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Wilson 346, 347</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 204, 205</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Nārāyaṇa on the Naiṣadhiyacarita,
+A. D. 1813 and 1821.</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>346 =ii+280+ii blank. In the original foliation there are 7 (numbered 11–17) + 24 +34+52 +23+25 (really 26, f. 3 being doubled) +115 (really 114, f. 23 being lost) leaves. 347 ii+239 + ii blank. In the original foliation 119 (really 118, as there is no f. 111)+69 (really 68, as there is no f. 64) + 53 leaves.</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n35/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> p. 26</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

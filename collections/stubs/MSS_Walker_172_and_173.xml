@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_10001039" type="stub">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MSS. Walker 172, 173</title>
+                <title type="collection">Walker Collection</title>
+                <respStmt>
+                    <resp when="2023-11">Stub record</resp>
+                    <persName>Alex Hitchman</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </publisher>
+                <idno type="msID">MSS_Walker_172_and_173</idno>
+                <idno type="collection">Walker Collection</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en" xml:id="MSS_Walker_172_and_173">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Oxford</settlement>
+                        <repository>Weston Library</repository>
+                        <idno type="shelfmark">MSS. Walker 172, 173</idno>
+                        <altIdentifier>
+                            <idno type="CSM">vol. 1: 636, 637</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents><summary>Parãéarasmṛtivyākhyā Māḍhavīyā,
+vol. I, ff. 1-274, 16th cent., ff. 275–932, A. D. 1702;
+vol. II, A. D. 1760.</summary></msContents>
+                    <physDesc><objectDesc><supportDesc><support>paper</support><extent>172=ii+332+ii blank; 178=ii+ 241+ii blank. The original foliation is: ff. 1-275 (ff. 74, 75 one leaf) + ff. 11-68, also numbered ff. 106160 (ff. 113, 123, 134 being repeated) + ff. 261-500 (f. 409 repeated). ;</extent></supportDesc></objectDesc></physDesc>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>An online description of this manuscript is not yet available. Links to printed descriptions are available below.</source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl/>
+                           
+                        <bibl><ref target="https://archive.org/details/BodlianCatalogueofSanskritfinished/page/n88/mode/1up"> A. B. Keith, <title>Catalogue of Sanskrit manuscripts in the Bodleian Library: appendix to vol. I, </title> (Oxford, 1909)</ref><citedRange unit="page"> pp. 79-80</citedRange></bibl></listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-11">First online publication.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--body provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
